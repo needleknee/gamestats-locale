@@ -19,49 +19,49 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 msgid "*Warning*: Different spelling of {user}"
-msgstr ""
+msgstr "*Varoitus*: {user} kirjoitettu eri tavalla"
 
 msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
-msgstr ""
+msgstr "<:nms:346638509114785808>No Man's Sky kartta universumista {guild}:lle"
 
 msgid "A {platforms} account is required to obtain {game} stats"
-msgstr "{platforms}:n käyttäjä on vaadittu saadaksesi {game}:n tilastot"
+msgstr "{platforms} käyttäjä vaaditaan saadaksesi {game}:n tilastot"
 
 msgid "Added group category **{category_name}** to {role_count} roles"
-msgstr ""
+msgstr "Ryhmäkategoria **{category_name}** lisätty {role_count} rooliin"
 
 msgid "Added group category **{name}**: {description}"
-msgstr ""
+msgstr "Ryhmäkategoria **{name}**: {description} lisätty"
 
 msgid "Added group {role}"
-msgstr ""
+msgstr "Ryhmä {role} lisätty"
 
 msgid "Added {account}"
-msgstr ""
+msgstr "{account} lisätty"
 
 msgid "Adding ARK chat"
-msgstr ""
+msgstr "Lisätään ARK chatti"
 
 msgid "Adding you to group {role}"
-msgstr ""
+msgstr "Lisätään sinut ryhmään {role}"
 
 msgid "Adding {account} for {name}"
-msgstr ""
+msgstr "Lisätään {account} {name}:lle"
 
 msgid "Are you sure you want to cancel the event {event_name}? (yes or no)"
-msgstr ""
+msgstr "Haluatko varmasti peruuttaa {event_name} tapahtuman? (kyllä tai ei)"
 
 msgid "Are you sure you want to delete your profile?"
-msgstr ""
+msgstr "Haluatko varmasti poistaa profiilisi?"
 
 msgid "Available languages: [{languages}]"
 msgstr "Saatavilla olevat kielet: [{languages}]"
 
 msgid "Card {card_name} not found."
-msgstr ""
+msgstr "{card_name} korttia ei löydy"
 
 msgid "Character not found."
-msgstr ""
+msgstr "Hahmoa ei löydy"
 
 msgid "Check your DMs"
 msgstr "Lue yksityisviestisi!"
@@ -71,51 +71,54 @@ msgid ""
 "\n"
 "{groups}"
 msgstr ""
+"Klikkaa alla olveia ikoneita liittyäksesi/poistuaksesi ryhmästä:\n"
+"\n"
+"{groups}"
 
 msgid "Compiling stats of {number} players..."
-msgstr ""
+msgstr "Kerätään {number} pelaajan tilastoja..."
 
 msgid "Completed reset of {game}, {stat_name}"
-msgstr ""
+msgstr "{game}, {stat_name} tyhjennys suoritettu"
 
 msgid "Could not find {user} on {server}, please try again"
-msgstr ""
+msgstr "Käyttäjää {user} ei löydetty {server} palvelimelta, kokeile uudestaan myöhemmin"
 
 msgid "Default FC for this server registered as {name} on {server}"
 msgstr ""
 
 msgid "Describe your event in more detail: (Optional, enter x to skip)"
-msgstr ""
+msgstr "Kuvaile tapahtumaasi tarkemmin: (Vapaaehtoinen, paina x ohittaaksesi)"
 
 msgid "Distance between {user1} and {user2}: {dist}ly"
-msgstr ""
+msgstr "{user1} ja {user2} välinen etäisyys: {dist}ly"
 
 msgid "Distance to center"
-msgstr ""
+msgstr "Etäisyys keskustaan"
 
 msgid "Event can't end before it starts, try again."
-msgstr ""
+msgstr "Tapahtuma ei voi loppua ennen kuin se alkaa, kokeile uudestaan."
 
 msgid "Event can't start before now, try again."
-msgstr ""
+msgstr "Tapahtuma ei voi alkaa ennen nykyhetkeä, kokeile uudestaan."
 
 msgid "Event creation cancelled."
-msgstr ""
+msgstr "Tapahtuman luonti keskeytetty."
 
 msgid "Event creation continuing via DM."
-msgstr ""
+msgstr "Tapahtuman luonti jatkuu YVn kautta"
 
 msgid "Event name limited to 64 characters, try again."
-msgstr ""
+msgstr "Tapahtuman nimi voi olla vain 64 merkkiä, kokeile uudestaan."
 
 msgid "Event not cancelled."
-msgstr ""
+msgstr "Tapahtumaa ei peruutettu."
 
 msgid "Event not found on this server."
-msgstr ""
+msgstr "Tapahtumaa ei löydy tältä palvelimelta."
 
 msgid "Event {event_name} cancelled"
-msgstr ""
+msgstr "Tapahtuma {event_name} peruutettu"
 
 msgid "Files for {language_key} not found"
 msgstr "Tiedostoja {language_key}:lle ei löytynyt"
@@ -128,11 +131,19 @@ msgid ""
 "500 Nearly Best\n"
 "100 Newbie"
 msgstr ""
+"Tälle tilastolle vastaa listalla numeroita -> rooli - yksi per rivi.\n"
+"Esimerkiksi:\n"
+"\n"
+"1000 @Paras\n"
+"500 Parempi\n"
+"100 Nyyppä"
 
 msgid ""
 "For this stat please reply with a list of roles - one on each line.\n"
 "You need one role for each of these: {roles}"
 msgstr ""
+"Tälle tilastolle vastaa listalla rooleja - yksi per rivi.\n"
+"Tarvitset roolin jokaiselle näistä: {roles}"
 
 msgid "Hero {hero_name} not found."
 msgstr ""
